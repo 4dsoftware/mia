@@ -1,6 +1,6 @@
 # MIA
 
-MIA is a software pipeline for Metabolomics Image Analysis. These images are typically phase constrast miscroscopy (PCM) images, because fluorescent agents may contaminate the cell extracts which will be used for further quantitative analysis.
+MIA is a software tool for Metabolomics Image Analysis. These images are typically phase constrast miscroscopy (PCM) images, because fluorescent agents may contaminate the cell extracts which will be used for further quantitative analysis.
 
 ## Instruction
 
