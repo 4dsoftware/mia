@@ -7,7 +7,7 @@ MIA is a software tool for Metabolomics Image Analysis. These images are typical
 
 ## Installation
 
-MIA is developed under MATLAB, and is packaged using MATLAB compiler. Similar to Java application, the software tool requires installation of MATLAB Compiler Runtime (MCR), which is included in the package. Double-clicking "MyAppInstaller_mcr.exe" will initialize the installation. After installation of MCR is complete, one can use MIA as an executable.  
+MIA is developed under MATLAB, and is packaged using MATLAB compiler. Similar to Java application, the software tool requires installation of MATLAB Compiler Runtime (MCR), which is included in the package. Double-clicking "MyAppInstaller_web.exe" will initialize the installation. After installation of MCR is complete, one can use MIA as an executable.  
 
 ## Tutorial
 
