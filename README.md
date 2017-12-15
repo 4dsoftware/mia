@@ -2,6 +2,9 @@
 
 MIA is a software tool for Metabolomics Image Analysis. These images are typically phase constrast miscroscopy (PCM) images, because fluorescent agents may contaminate the cell extracts which will be used for further quantitative analysis.
 
+![mia](https://user-images.githubusercontent.com/15344717/34053962-690f2720-e18e-11e7-8b07-938aa6876471.jpg)
+
+
 ## Installation
 
 MIA is developed under MATLAB, and is packaged using MATLAB compiler. Similar to Java application, the software tool requires installation of MATLAB Compiler Runtime (MCR), which is included in the package. Double-clicking "MyAppInstaller_mcr.exe" will initialize the installation. After installation of MCR is complete, one can use MIA as an executable.  
