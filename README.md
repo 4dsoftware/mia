@@ -11,7 +11,7 @@ MIA is developed under MATLAB, and is packaged using MATLAB compiler. Similar to
 
 ## Tutorial
 
-As an executable with graphic user interface, MIA is very easy to use. The workflow is illustrated by the following steps. Although buttons need to be clicked, the workflow is automatic as no parameter input is required in addition to image file selection. The software is designed this way so one can make sure everything is done in a satisfactory manner. 
+As an executable with graphic user interface, MIA is very easy to use. The workflow is illustrated by the following steps. Although buttons need to be clicked, the workflow is automatic as no parameter input is required in addition to image file selection. The software is designed this way so one is aware of what MIA is doing and can make sure everything is done in a satisfactory manner. 
 
 1) Cell Culture popup menu allows one to choose cell culture type. 
 
