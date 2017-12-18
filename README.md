@@ -2,7 +2,7 @@
 
 MIA is a software tool for Metabolomics Image Analysis. These images are typically phase constrast miscroscopy (PCM) images, because fluorescent agents may contaminate the cell extracts which will be used for further quantitative analysis.
 
-![mia](https://user-images.githubusercontent.com/15344717/34053962-690f2720-e18e-11e7-8b07-938aa6876471.jpg)
+![mia](https://user-images.githubusercontent.com/15344717/34085315-56d420fc-e354-11e7-9700-9d3236fab3f2.jpg)
 
 
 ## Installation
@@ -13,7 +13,7 @@ MIA is developed under MATLAB, and is packaged using MATLAB compiler. Similar to
 
 As an executable with graphic user interface, MIA is very easy to use. The workflow is illustrated by the following steps. Although buttons need to be clicked, the workflow is automatic as no parameter input is required in addition to image file selection. The software is designed this way so one is aware of what MIA is doing and can make sure everything is done in a satisfactory manner. 
 
-1) Cell Culture popup menu allows one to choose cell culture type. 
+1) Cell Culture popup menu allows one to choose cell culture type, and Worker Option popup menu allows the users to decide whether Step 6 is performed in a single worker or in parallel. 
 
 2) The Current Directory lists all files in current directory. If the current directory is where the images of interest are stored, then Step 1 can be skipped. Otherwise, click "Step 1 Image Folder" to browse the image folder. 
 
