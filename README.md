@@ -29,6 +29,9 @@ As an executable with graphic user interface, MIA is very easy to use. The workf
 
 More detailed tutorial and examples can be found in Tutorial.pdf. 
 
+## Notes
+
+MIA is designed for on-focus images that were taken in normal light condition. However, some users have reported tjat MIA also applies to blurred or distorted images if one changes the two radii parameters based on experience. This can be done by directly type values into the two text boxes, though it is not recommended. 
 
 ## References
 1. Du, D. et al, Bioinformatics, submitted
