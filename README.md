@@ -28,8 +28,7 @@ As an executable with graphic user interface, MIA is very easy to use. The workf
 
 Here an example of using MIA to process two adherent cell images is shown. The example images are also included with the package. We use the "single workder" and "adherent options" in the popup menus. In Step 1, we change the image folder to “adherent_test” (choosing this folder instead of clicking on the folder). The two TIFF files will show in current directory. 
 
-![image](https://user-images.githubusercontent.com/15344717/35300439-020133d2-004e-11e8-9196-82d88c4cccba.png)
-{:height="36px" width="36px"}
+![image](https://user-images.githubusercontent.com/15344717/35300439-020133d2-004e-11e8-9196-82d88c4cccba.png) {width=50%}
 
 In Step 2, we click on either image, the preview window on the right of the tool will show the image. In Step 3, we analyze the bright mitotic cells in the image. The analysis is dependent on Circle Radius and Crop Size, which are automatically defined in Step 2. However, one can adjust these two values. Here we use 300 as crop size to expedite the process for illustration purposes. 
 
