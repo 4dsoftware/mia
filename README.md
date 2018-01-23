@@ -29,6 +29,10 @@ As an executable with graphic user interface, MIA is very easy to use. The workf
 
 More detailed tutorial and examples can be found in Tutorial.pdf. 
 
+## Example
+
+Here an example of using MIA to process two adherent cell images is shown. The example images are also included with the package. We use the default options in the popup menus. In Step 1, we change the image folder to “adherent_test” (choosing this folder instead of clicking on the folder). The two TIFF files will show in current directory. In Step 2, we click on either image, the preview window on the right of the tool will show the image. In Step 3, we analyze the bright mitotic cells in the image. The analysis is dependent on Circle Radius and Crop Size, which are automatically defined in Step 2. However, one can adjust these two values. Here we use 300 as crop size to expedite the process for illustration purposes (Figure 3). 
+
 ## Notes
 
 MIA is designed for on-focus images that were taken in normal light condition. However, some users have reported tjat MIA also applies to blurred or distorted images if one changes the two radii parameters based on experience. This can be done by directly type values into the two text boxes, though it is not recommended. 
