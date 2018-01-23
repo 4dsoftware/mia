@@ -28,11 +28,11 @@ As an executable with graphic user interface, MIA is very easy to use. The workf
 
 Here an example of using MIA to process two adherent cell images is shown. The example images are also included with the package. We use the "single workder" and "adherent options" in the popup menus. In Step 1, we change the image folder to “adherent_test” (choosing this folder instead of clicking on the folder). The two TIFF files will show in current directory. 
 
-![image](https://user-images.githubusercontent.com/15344717/35301273-ba8ea748-0050-11e8-8be1-b79636b3986b.png)
+![image](https://user-images.githubusercontent.com/15344717/35301880-68ce58a2-0052-11e8-8212-1311740d1e61.png)
 
 In Step 2, we click on either image, the preview window on the right of the tool will show the image. In Step 3, we analyze the bright mitotic cells in the image. The analysis is dependent on Circle Radius and Crop Size, which are automatically defined in Step 2. However, one can adjust these two values. Here we use 300 as crop size to expedite the process for illustration purposes. 
 
-![image](https://user-images.githubusercontent.com/15344717/35301287-c01bfeb8-0050-11e8-96f9-5c3adbc90ad2.png)
+![image](https://user-images.githubusercontent.com/15344717/35301885-6d89e5a0-0052-11e8-9e83-1bf9446e1ce5.png)
 
 In Step 4, we need to calculate the two parameters from the reference image. This will take some time, but is not always required. One can directly type input values into the two text boxes. The values will be used in Step 5 and 6. Using the radii calculated from Step 4, we are able to get the processed reference image after clicking Step 5. 
 
