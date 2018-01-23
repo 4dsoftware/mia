@@ -34,11 +34,11 @@ In Step 2, we click on either image, the preview window on the right of the tool
 
 ![image](https://user-images.githubusercontent.com/15344717/35301885-6d89e5a0-0052-11e8-9e83-1bf9446e1ce5.png)
 
-In Step 4, we need to calculate the two parameters from the reference image. This will take some time, but is not always required. One can directly type input values into the two text boxes. The values will be used in Step 5 and 6. Using the radii calculated from Step 4, we are able to get the processed reference image after clicking Step 5. 
+In Step 4, we need to calculate the two parameters from the reference image. This will take some time, but is not always required. One can directly type input values into the two text boxes. The values will be used in Step 5 and 6. Using the radii calculated from Step 4, we are able to get the processed reference image after clicking Step 5. Step 4 and Step 5 with 300 crop size will take 15 - 60 seconds depending on the device, respectively. Please wait patiently. 
 
 ![image](https://user-images.githubusercontent.com/15344717/35301290-c33a3a6a-0050-11e8-9a68-528658e98fc8.png)
 
-In Step 6, we process all images in the folder. Users can also save one image of interest by clicking on the save button at the top-left corner. The image will automatically be save into the current folder with JPEG format. Detailed tutorial and examples can be found in Tutorial.pdf. 
+In Step 6, we process all images in the folder. Users can also save one image of interest by clicking on the save button at the top-left corner. The image will automatically be save into the current folder with JPEG format. Detailed tutorial and examples can be found in Tutorial.pdf. The computation time for Step 6 is highly dependent on the worker option as well as image size (crop size). For single worker option, the time it takes should be roughly equal to the time Step 5 takes multiplying by the number of images in the folder.
 
 ![image](https://user-images.githubusercontent.com/15344717/35301293-c633a742-0050-11e8-8b59-e52798bec39e.png)
 
