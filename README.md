@@ -32,7 +32,7 @@ Here an example of using MIA to process two adherent cell images is shown. The e
 
 In Step 2, we click on either image, the preview window on the right of the tool will show the image. In Step 3, we analyze the bright mitotic cells in the image. The analysis is dependent on Circle Radius and Crop Size, which are automatically defined in Step 2. However, one can adjust these two values. Here we use 300 as crop size to expedite the process for illustration purposes. 
 
-![image](https://user-images.githubusercontent.com/15344717/35300447-0718f012-004e-11e8-931c-cbff2401310c.png)
+![image](https://user-images.githubusercontent.com/15344717/35301160-710b5c6a-0050-11e8-97ae-69ad8b025022.png)
 
 In Step 4, we need to calculate the two parameters from the reference image. This will take some time, but is not always required. One can directly type input values into the two text boxes. The values will be used in Step 5 and 6. Using the radii calculated from Step 4, we are able to get the processed reference image after clicking Step 5. 
 
