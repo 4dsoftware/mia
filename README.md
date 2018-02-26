@@ -44,7 +44,7 @@ In Step 6, we process all images in the folder. Users can also save one image of
 
 ## Notes
 
-MIA is designed for on-focus images that were taken in normal light condition. However, some users have reported that MIA also applies to blurred or distorted images if one changes the two radii parameters based on experience. This can be done by directly type values into the two text boxes, though it is not recommended. 
+MIA is designed for on-focus images that were taken in normal light condition. However, some users have reported that MIA also applies to blurred or distorted images if one changes the two radii parameters based on experience. This can be done by directly typing values into the two text boxes, though it is not recommended. 
 
 ## References
 1. Du, D. et al, Bioinformatics, submitted
